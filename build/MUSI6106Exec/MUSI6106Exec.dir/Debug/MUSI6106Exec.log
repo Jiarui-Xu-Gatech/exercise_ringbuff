@@ -1,0 +1,18 @@
+﻿  MUSI6106Exec.cpp
+C:\Users\11238\2022-MUSI6106\src\MUSI6106Exec\MUSI6106Exec.cpp(17,26): warning C4100: “argv”: 未引用的形参
+C:\Users\11238\2022-MUSI6106\src\MUSI6106Exec\MUSI6106Exec.cpp(17,14): warning C4100: “argc”: 未引用的形参
+C:\Users\11238\2022-MUSI6106\src\inc\RingBuffer.h(43,24): warning C4100: “tNewValue”: 未引用的形参
+C:\Users\11238\2022-MUSI6106\src\inc\RingBuffer.h(44): message : 在编译 类 模板 成员函数“void CRingBuffer<float>::putPostInc(T)”时
+          with
+          [
+              T=float
+          ]
+C:\Users\11238\2022-MUSI6106\src\MUSI6106Exec\MUSI6106Exec.cpp(29): message : 查看对正在编译的函数 模板 实例化“void CRingBuffer<float>::putPostInc(T)”的引用
+          with
+          [
+              T=float
+          ]
+C:\Users\11238\2022-MUSI6106\src\MUSI6106Exec\MUSI6106Exec.cpp(25): message : 查看对正在编译的 类 模板 实例化“CRingBuffer<float>”的引用
+C:\Users\11238\2022-MUSI6106\src\inc\RingBuffer.h(35,18): error C2065: “m_ptBuff”: 未声明的标识符
+C:\Users\11238\2022-MUSI6106\src\inc\RingBuffer.h(34): message : 在编译 类 模板 成员函数“CRingBuffer<float>::~CRingBuffer(void)”时
+C:\Users\11238\2022-MUSI6106\src\inc\RingBuffer.h(35,1): error C2541: “delete”: 不能删除不是指针的对象

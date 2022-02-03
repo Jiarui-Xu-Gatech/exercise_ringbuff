@@ -1,0 +1,5 @@
+C:/Users/11238/2022-MUSI6106/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/11238/2022-MUSI6106/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/11238/2022-MUSI6106/build/MUSI6106Exec/CMakeFiles/MUSI6106Exec.dir
+C:/Users/11238/2022-MUSI6106/build/AudioFileIO/CMakeFiles/AudioFileIO.dir
+C:/Users/11238/2022-MUSI6106/build/AudioFileIO/sndlib/CMakeFiles/sndlib.dir
